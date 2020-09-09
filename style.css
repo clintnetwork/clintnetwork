@@ -1,0 +1,21 @@
+/*
+Theme Name: Clint.Network
+Theme URI: https://github.com/clintnetwork/clint.network-wp
+Author: Clint.Network
+Author URI: https://clint.network/
+Description: clint.network is a basic personnal / tech blog theme, really clean and light.
+Version: 2020
+License: MIT License
+License URI: https://github.com/clintnetwork/clint.network-wp/blob/master/LICENSE.md
+Tags: one-column, two-columns, custom-menu, featured-images, microformats, sticky-post, light, threaded-comments, translation-ready
+Text Domain: clint.network
+*/
+
+@import './css/bootstrap.css';
+@import './css/font-awesome.min.css';
+@import './css/Pe-icon-7-stroke.css';
+@import './css/social-icons.css';
+@import './css/owl.carousel.css';
+@import './css/owl.theme.css';
+@import './css/prism.css';
+@import './css/main.css';
